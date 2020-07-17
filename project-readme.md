@@ -56,16 +56,17 @@ Definition of the different states and their transition (transition functions)
 * game - updateCanvas
 * game - drawCanvas
 * game - checkCollision
+* game - collisionLeft
+* game - collisionRight
+* game - collisionBottom
 * game - GameOver
 * game - addEventListener
 * Bin - drawImage
 * Bin - move
 * Trash - trashImage
 * Trash - trashFalls
-* ship - draw
-* ship - move
-* cannon - draw
-* cannon - move
+
+
 
 
 ## Links
